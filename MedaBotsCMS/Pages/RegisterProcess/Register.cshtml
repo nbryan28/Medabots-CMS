@@ -1,0 +1,59 @@
+﻿@page
+@model MedaBotsCMS.Pages.RegisterModel
+@{
+}
+<div class="mt-4">
+    <div class="container-box">
+        <p>Please enter the information of your medabot and your contact information as well</p>
+        <div class="row">
+            <div class="col-6 col-area">
+                <div class="cont-box">
+                    <form id="myForm" asp-page-handler="NextRegister" method="post">
+                        <label>First Name</label>
+                        <input class="input-box" type="text" name="firstname" placeholder="Your name.." required>
+
+                        <label>Last Name</label>
+                        <input type="text" class="input-box" name="lastname" placeholder="Your last name.." required>
+
+                        <label>Address</label>
+                        <input type="text" class="input-box" name="address" placeholder="Your Address" required>
+
+                        <label>State</label>
+                        <select class="input-box" name="country">
+                            <option value="GA">Georgia</option>
+                            <option value="SC">South Carolina</option>
+                            <option value="FL">Florida</option>
+                        </select>
+
+                        <label>Phone</label>
+                        <input type="tel" class="input-box" name="phone" placeholder="Your Phone Number" pattern="[0-9]{3}-[0-9]{2}-[0-9]{3}" required>
+
+                        <label>Email</label>
+                        <input type="email" class="input-box" name="email" placeholder="Your Email Address" required>
+                      
+                    </form>
+                </div>
+
+            </div>
+            <div class="col-6 col-area">
+                <div class="cont-box">
+                    <form asp-page-handler="NextRegister" method="post">
+                        <label class="me-2">Medabot Name</label>
+                        <input type="text" name="city" width="700" list="medabotList">
+                        <datalist id="medabotList">
+                            <option>Metabee</option>
+                            <option>Rokusho</option>
+                            <option>Ielane</option>
+                        </datalist>
+                        <label>Type</label>
+                        <input class="input-box" type="text" name="lastname" placeholder="Your last name..">
+
+                    </form>
+                </div>
+
+            </div>
+        </div>
+
+    </div>
+</div>
+

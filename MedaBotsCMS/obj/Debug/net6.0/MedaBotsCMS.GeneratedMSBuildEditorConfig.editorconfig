@@ -1,0 +1,68 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = MedaBotsCMS
+build_property.RootNamespace = MedaBotsCMS
+build_property.ProjectDir = C:\source\MedaBotsCMS\MedaBotsCMS\MedaBotsCMS\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\source\MedaBotsCMS\MedaBotsCMS\MedaBotsCMS
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/source/MedaBotsCMS/MedaBotsCMS/MedaBotsCMS/Pages/CheckIn/CheckInDash.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2hlY2tJblxDaGVja0luRGFzaC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/source/MedaBotsCMS/MedaBotsCMS/MedaBotsCMS/Pages/Checkout/CheckoutDash.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2hlY2tvdXRcQ2hlY2tvdXREYXNoLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/source/MedaBotsCMS/MedaBotsCMS/MedaBotsCMS/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/source/MedaBotsCMS/MedaBotsCMS/MedaBotsCMS/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/source/MedaBotsCMS/MedaBotsCMS/MedaBotsCMS/Pages/Overviews/ListAppointments.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcT3ZlcnZpZXdzXExpc3RBcHBvaW50bWVudHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/source/MedaBotsCMS/MedaBotsCMS/MedaBotsCMS/Pages/Overviews/MedaParts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcT3ZlcnZpZXdzXE1lZGFQYXJ0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/source/MedaBotsCMS/MedaBotsCMS/MedaBotsCMS/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/source/MedaBotsCMS/MedaBotsCMS/MedaBotsCMS/Pages/RegisterProcess/Reason.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVnaXN0ZXJQcm9jZXNzXFJlYXNvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/source/MedaBotsCMS/MedaBotsCMS/MedaBotsCMS/Pages/RegisterProcess/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVnaXN0ZXJQcm9jZXNzXFJlZ2lzdGVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/source/MedaBotsCMS/MedaBotsCMS/MedaBotsCMS/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/source/MedaBotsCMS/MedaBotsCMS/MedaBotsCMS/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/source/MedaBotsCMS/MedaBotsCMS/MedaBotsCMS/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/source/MedaBotsCMS/MedaBotsCMS/MedaBotsCMS/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-d345zgc352

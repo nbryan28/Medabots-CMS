@@ -1,0 +1,75 @@
+﻿
+/* The sidebar menu */
+.sidebar {
+    height: 100%; /* 100% Full-height */
+    width: 0; /* 0 width - change this with JavaScript */
+    position: fixed; /* Stay in place */
+    z-index: 1; /* Stay on top */
+    top: 0;
+    left: 0;
+    background-color: #363a3a;
+    overflow-x: hidden; /* Disable horizontal scroll */
+    padding-top: 60px; /* Place content 60px from the top */
+    transition: 0.5s; /* 0.5 second transition effect to slide in the sidebar */
+}
+
+    .sidebar a {
+        padding: 8px 8px 8px 32px;
+        text-decoration: none;
+        font-size: 22px;
+        color: white;
+        display: block;
+        transition: 0.3s;
+    }
+
+        .sidebar a:hover {
+            color: darkcyan;
+        }
+
+    .sidebar .closebtn {
+        position: absolute;
+        top: 0;
+        right: 13px;
+        font-size: 22px;
+        margin-left: 50px;
+        font-size: 32px;
+    }
+
+.bar-style {
+    background-color: #252424;
+}
+
+.link-color {
+    color: white;
+}
+
+.list-serv {
+    color: #c8eaff;
+    font-size: 24px;
+    padding-top: 80px;
+    padding-left: 60px;
+}
+
+.list-item{
+    margin-top:10px;
+}
+
+.extraButton {
+    background-color: #2b7983;
+    width: 300px;
+    height: 100px;
+    color: white;
+    font-size: 30px;
+    margin-left: 100px;
+    margin-top: 100px;
+    text-align: center;
+    padding-top: 22px;
+    cursor: pointer;
+    border-radius: 23px;
+}
+
+    .extraButton:hover {
+        background-color: #16444a;
+    }
+
+

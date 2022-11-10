@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "waRTGy5ep4jKFMhu+7/1OZMoeEFZyPDz1ureSD5vSu6kaHowHYgFvPr5e3n4g4F22jvxSTJKr1YHrMcE6Q9Ufw==",
+  "success": true,
+  "projectFilePath": "C:\\source\\MedaBotsCMS\\MedaBotsCMS\\MedaBotsCMS\\MedaBotsCMS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\n_bry\\.nuget\\packages\\bootstrap\\5.2.2\\bootstrap.5.2.2.nupkg.sha512"
+  ],
+  "logs": []
+}
